@@ -1,2 +1,2 @@
 # IHCP
-IHCP:Image Hiding against Blind Compression Based on Quality Prediction
+This repo is the official code for IHCP:Image Hiding against Blind Compression Based on Quality Prediction.
